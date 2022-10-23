@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T13:22:28.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Rf9X4KGavo87i-mzWrCI" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T13:22:46.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="cUg01hAJhNH2APYrC5RB" version="20.4.1" type="github">
   <diagram id="e9moKl6Rp8YOU9BEZt6q" name="第 1 页">
     <mxGraphModel dx="1422" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w-KC4YoJ1CXvf5zeH__f-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="160" width="560" height="220" as="geometry" />
+          <mxGeometry x="390" y="180" width="560" height="200" as="geometry" />
         </mxCell>
         <mxCell id="w-KC4YoJ1CXvf5zeH__f-20" value="APISIX" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="450" y="240" width="200" height="100" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="445.66" y="-150" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-KC4YoJ1CXvf5zeH__f-11" value="http" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=14;fontColor=#000000;startArrow=classic;startFill=1;strokeColor=#000000;" edge="1" parent="1" source="w-KC4YoJ1CXvf5zeH__f-10" target="w-KC4YoJ1CXvf5zeH__f-30">
-          <mxGeometry x="0.4839" relative="1" as="geometry">
+          <mxGeometry x="-0.0909" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -25,7 +25,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w-KC4YoJ1CXvf5zeH__f-10" value="&lt;font color=&quot;#000000&quot;&gt;ServiceCenterX&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-10" width="160" height="60" as="geometry" />
+          <mxGeometry x="470" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-KC4YoJ1CXvf5zeH__f-22" value="APISIX Dashboard" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="700" y="190" width="150" height="60" as="geometry" />
@@ -35,7 +35,7 @@
         </mxCell>
         <mxCell id="w-KC4YoJ1CXvf5zeH__f-34" value="https" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;" vertex="1" connectable="0" parent="w-KC4YoJ1CXvf5zeH__f-32">
           <mxGeometry x="-0.4845" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w-KC4YoJ1CXvf5zeH__f-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=14;fontColor=#000000;startArrow=classic;startFill=1;" edge="1" parent="1" source="w-KC4YoJ1CXvf5zeH__f-36">
@@ -47,7 +47,7 @@
           <mxGeometry x="755" y="180" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w-KC4YoJ1CXvf5zeH__f-41" value="PostgreSQL 12" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-10" width="140" height="60" as="geometry" />
+          <mxGeometry x="230" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-KC4YoJ1CXvf5zeH__f-43" value="Admin API" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="470.66" y="210" width="160" height="50" as="geometry" />
