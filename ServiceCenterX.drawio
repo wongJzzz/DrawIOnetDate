@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T12:09:58.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1jQaVKl_0CRrJTrs6UCL" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T13:01:38.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="unk6qq6IFE3Zyl_EoOmG" version="20.4.1" type="github">
   <diagram id="e9moKl6Rp8YOU9BEZt6q" name="第 1 页">
     <mxGraphModel dx="982" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,6 +14,14 @@
         </mxCell>
         <mxCell id="w-KC4YoJ1CXvf5zeH__f-1" value="ServiceCenterX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-KC4YoJ1CXvf5zeH__f-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeWidth=1;fontSize=14;fontColor=#000000;startArrow=classic;startFill=1;" edge="1" parent="1" source="w-KC4YoJ1CXvf5zeH__f-2" target="w-KC4YoJ1CXvf5zeH__f-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-KC4YoJ1CXvf5zeH__f-19" value="&lt;span style=&quot;color: rgb(0, 0, 204);&quot;&gt;Admin API&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 204);&quot;&gt;9080&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;labelBackgroundColor=none;" vertex="1" connectable="0" parent="w-KC4YoJ1CXvf5zeH__f-17">
+          <mxGeometry x="-0.1766" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="w-KC4YoJ1CXvf5zeH__f-2" value="APISIX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="230" width="120" height="60" as="geometry" />
@@ -39,6 +47,9 @@
         </mxCell>
         <mxCell id="w-KC4YoJ1CXvf5zeH__f-10" value="&lt;font color=&quot;#000000&quot;&gt;GIS 前端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="435" y="30" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-KC4YoJ1CXvf5zeH__f-16" value="APISIX Dashboard" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="770" y="230" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
