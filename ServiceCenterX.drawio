@@ -1,1 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T12:03:14.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" version="20.5.1" etag="QK0R5u0p6xWl87VOaa1w" type="github"><diagram id="e9moKl6Rp8YOU9BEZt6q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-23T12:06:35.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="kIzG2XzoZ6tY4KUYoVGA" version="20.4.1" type="github">
+  <diagram id="e9moKl6Rp8YOU9BEZt6q" name="第 1 页">
+    <mxGraphModel dx="1178" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w-KC4YoJ1CXvf5zeH__f-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=1;" edge="1" parent="1" source="w-KC4YoJ1CXvf5zeH__f-1" target="w-KC4YoJ1CXvf5zeH__f-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-KC4YoJ1CXvf5zeH__f-7" value="Admin API&lt;br&gt;9080" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#0000CC;labelBackgroundColor=none;" vertex="1" connectable="0" parent="w-KC4YoJ1CXvf5zeH__f-3">
+          <mxGeometry x="-0.0857" y="1" relative="1" as="geometry">
+            <mxPoint x="3" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-KC4YoJ1CXvf5zeH__f-1" value="ServiceCenterX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-KC4YoJ1CXvf5zeH__f-2" value="APISIX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
