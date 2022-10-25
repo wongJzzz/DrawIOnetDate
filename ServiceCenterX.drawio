@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T02:20:31.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="2-tN44r3nZwoOLrAbxRr" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-25T02:25:49.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="BuwNqChrjUiKAczcGEA-" version="20.5.1" type="github" pages="4">
   <diagram id="e9moKl6Rp8YOU9BEZt6q" name="第 1 页">
     <mxGraphModel dx="990" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -246,8 +246,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="db4wHdersrsXzJ-NL-X2-2" value="GIS Server 服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="250" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="db4wHdersrsXzJ-NL-X2-3" value="GP服务1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;align=left;verticalAlign=top;arcSize=13;labelPosition=center;verticalLabelPosition=middle;spacingTop=0;spacing=0;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="530" y="326" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="db4wHdersrsXzJ-NL-X2-5" value="GP服务2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;align=left;verticalAlign=top;arcSize=13;labelPosition=center;verticalLabelPosition=middle;spacingTop=0;spacing=0;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="555" y="346" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="db4wHdersrsXzJ-NL-X2-6" value="GP服务3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;align=left;verticalAlign=top;arcSize=13;labelPosition=center;verticalLabelPosition=middle;spacingTop=0;spacing=0;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="575" y="366" width="120" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="KRS20VSVwBaWrewEiyM5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="280" width="640" height="270" as="geometry" />
+          <mxGeometry x="120" y="280" width="350" height="270" as="geometry" />
         </mxCell>
         <mxCell id="KRS20VSVwBaWrewEiyM5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KRS20VSVwBaWrewEiyM5-4" target="KRS20VSVwBaWrewEiyM5-7">
           <mxGeometry relative="1" as="geometry">
@@ -279,6 +291,9 @@
         </mxCell>
         <mxCell id="WKuteMJcbw_XdCvoid-x-4" value="处理处理申请" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="237.5" y="250" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="db4wHdersrsXzJ-NL-X2-7" value="GP服务N" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;align=center;verticalAlign=middle;arcSize=13;labelPosition=center;verticalLabelPosition=middle;spacingTop=0;spacing=0;spacingLeft=-1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="386" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
