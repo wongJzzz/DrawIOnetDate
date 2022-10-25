@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T07:03:00.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="Dxsz4CsOVjLvynfoynaQ" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-25T07:04:37.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="JY1FQ2yqlcdZy2Nn9Mdn" version="20.5.1" type="github" pages="5">
   <diagram id="e9moKl6Rp8YOU9BEZt6q" name="第 1 页">
     <mxGraphModel dx="1145" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -406,10 +406,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oSrfeOCV2LulLgYmszKV" name="Excel 数据获取">
-    <mxGraphModel dx="1105" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="526" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="id1OEniwYbF86I18N7Xn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="350" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="id1OEniwYbF86I18N7Xn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="id1OEniwYbF86I18N7Xn-6" target="id1OEniwYbF86I18N7Xn-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="id1OEniwYbF86I18N7Xn-2" value="生产数据资源管理软件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="155" y="130" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="id1OEniwYbF86I18N7Xn-3" value="PostgreSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10.166666666666686;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="186" y="481" width="93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="id1OEniwYbF86I18N7Xn-4" value="生产数据资源管理软件后台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="id1OEniwYbF86I18N7Xn-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png;fontSize=9;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="136" width="48" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
