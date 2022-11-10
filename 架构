@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T02:40:18.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4HJA74ImzKg2H9EZyJHs" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-10T02:41:05.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fKU4w-TPoyaI3Z-J7MkN" version="20.5.1" type="github" pages="4">
   <diagram id="PV2RBQs3aGNZxjhDw1Lz" name="标准部署">
     <mxGraphModel dx="1138" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,10 +199,10 @@
           <mxGeometry x="900" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yOze8B4gFZT8ewCWz1cc-26" value="复制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="490" y="500" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yOze8B4gFZT8ewCWz1cc-28" value="引用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="490" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yOze8B4gFZT8ewCWz1cc-29" value="站点数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="900" y="300" width="120" height="60" as="geometry" />
