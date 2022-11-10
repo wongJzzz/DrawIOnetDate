@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T02:46:05.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="X7kBSrA-Zz4kZZFW0-Cn" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-10T02:46:30.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EkMmCINCc48YWD-d7Oi7" version="20.5.1" type="github" pages="4">
   <diagram id="PV2RBQs3aGNZxjhDw1Lz" name="标准部署">
     <mxGraphModel dx="1138" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -273,6 +273,9 @@
         </mxCell>
         <mxCell id="yOze8B4gFZT8ewCWz1cc-53" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1950" y="540" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qECqtDhqG5QcG9eSzp7B-1" value="443" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-50" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
