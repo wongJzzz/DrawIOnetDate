@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T02:41:21.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="RlrsMIWF3d1xfN-rRGp8" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-10T02:41:31.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ADdfZ0-KErSWBnMyckrI" version="20.5.1" type="github" pages="4">
   <diagram id="PV2RBQs3aGNZxjhDw1Lz" name="标准部署">
     <mxGraphModel dx="1138" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="orFZrzLtjVPhmD2BqEJD" name="第 4 页">
-    <mxGraphModel dx="1606" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1138" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,11 +236,17 @@
         <mxCell id="yOze8B4gFZT8ewCWz1cc-35" value="Server" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="930" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yOze8B4gFZT8ewCWz1cc-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="yOze8B4gFZT8ewCWz1cc-41" target="yOze8B4gFZT8ewCWz1cc-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yOze8B4gFZT8ewCWz1cc-41" value="GIS服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1100" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yOze8B4gFZT8ewCWz1cc-43" value="业务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1270" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yOze8B4gFZT8ewCWz1cc-45" value="业务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
