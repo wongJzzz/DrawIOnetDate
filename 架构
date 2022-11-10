@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T02:50:47.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="K1iZR8DlR_R_vtyY5QzJ" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-10T02:51:05.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="S4qrD59BGVCfDYqgVxk9" version="20.5.1" type="github" pages="4">
   <diagram id="PV2RBQs3aGNZxjhDw1Lz" name="标准部署">
     <mxGraphModel dx="1138" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
         <mxCell id="yOze8B4gFZT8ewCWz1cc-8" value="业务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="-150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yOze8B4gFZT8ewCWz1cc-10" value="站点数据108" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yOze8B4gFZT8ewCWz1cc-10" value="nfs站点数据108" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-20" y="240" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yOze8B4gFZT8ewCWz1cc-14" value="Pro win" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=none;" vertex="1" parent="1">
