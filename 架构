@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T02:59:34.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LbA09yOADqlqIqo10Udh" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-10T03:00:46.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nbhG172KHvbufMtCHHwE" version="20.5.1" type="github" pages="4">
   <diagram id="PV2RBQs3aGNZxjhDw1Lz" name="标准部署">
     <mxGraphModel dx="1138" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="orFZrzLtjVPhmD2BqEJD" name="第 4 页">
-    <mxGraphModel dx="1607" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1965" dy="1866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,7 +327,10 @@
         <mxCell id="qECqtDhqG5QcG9eSzp7B-20" value="点线面GIS数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="900" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qECqtDhqG5QcG9eSzp7B-22" value="地图" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="qECqtDhqG5QcG9eSzp7B-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="qECqtDhqG5QcG9eSzp7B-22" target="qECqtDhqG5QcG9eSzp7B-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qECqtDhqG5QcG9eSzp7B-22" value="地图（png、jpg）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1270" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qECqtDhqG5QcG9eSzp7B-23" value="Server 服务器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=default;" vertex="1" parent="1">
@@ -343,6 +346,27 @@
         </mxCell>
         <mxCell id="qECqtDhqG5QcG9eSzp7B-26" value="CPU、内存资源" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1160" y="-490" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qECqtDhqG5QcG9eSzp7B-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="qECqtDhqG5QcG9eSzp7B-27" target="qECqtDhqG5QcG9eSzp7B-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qECqtDhqG5QcG9eSzp7B-27" value="复制过来的数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qECqtDhqG5QcG9eSzp7B-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="qECqtDhqG5QcG9eSzp7B-28" target="qECqtDhqG5QcG9eSzp7B-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qECqtDhqG5QcG9eSzp7B-28" value="引用的pg sde" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qECqtDhqG5QcG9eSzp7B-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="qECqtDhqG5QcG9eSzp7B-31" target="qECqtDhqG5QcG9eSzp7B-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qECqtDhqG5QcG9eSzp7B-31" value="GIS 服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qECqtDhqG5QcG9eSzp7B-33" value="业务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
