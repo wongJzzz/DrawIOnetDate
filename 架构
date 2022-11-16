@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T02:20:15.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="L2O4hbjG6WKxkIuIy1mr" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-16T03:05:16.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="u0pZ3Iit24VVrCtjCWE7" version="20.5.3" type="github" pages="4">
   <diagram id="PV2RBQs3aGNZxjhDw1Lz" name="标准部署">
     <mxGraphModel dx="1105" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="orFZrzLtjVPhmD2BqEJD" name="ganghua">
-    <mxGraphModel dx="2443" dy="2101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2201" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -526,14 +526,14 @@
         <mxCell id="1Z_rMe-z7WKQoMF_P5jX-52" value="专用实例" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="960" y="-865" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Z_rMe-z7WKQoMF_P5jX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=26;" edge="1" parent="1" target="1Z_rMe-z7WKQoMF_P5jX-61">
+        <mxCell id="1Z_rMe-z7WKQoMF_P5jX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=26;" edge="1" parent="1" source="1Z_rMe-z7WKQoMF_P5jX-86" target="1Z_rMe-z7WKQoMF_P5jX-61">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1200" y="-1060" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Z_rMe-z7WKQoMF_P5jX-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=26;" edge="1" parent="1" target="1Z_rMe-z7WKQoMF_P5jX-61">
+        <mxCell id="1Z_rMe-z7WKQoMF_P5jX-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=26;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Z_rMe-z7WKQoMF_P5jX-88" target="1Z_rMe-z7WKQoMF_P5jX-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1200" y="-1120" as="sourcePoint" />
+            <mxPoint x="1220" y="-1120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Z_rMe-z7WKQoMF_P5jX-61" value="动态地图服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
@@ -562,6 +562,18 @@
         </mxCell>
         <mxCell id="1Z_rMe-z7WKQoMF_P5jX-84" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pic1.zhimg.com/v2-b3008660e3a75e01a28b662f3c489cc0_r.jpg;" vertex="1" parent="1">
           <mxGeometry x="890" y="-138.5" width="359.49" height="301" as="geometry" />
+        </mxCell>
+        <mxCell id="1Z_rMe-z7WKQoMF_P5jX-85" value="32C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-1090" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Z_rMe-z7WKQoMF_P5jX-86" value="32 × 4 = 128 最大实例" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-1090" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Z_rMe-z7WKQoMF_P5jX-87" value="32C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-1150" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Z_rMe-z7WKQoMF_P5jX-88" value="32 × 4 = 128 最大实例" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-1150" width="560" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
