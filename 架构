@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T03:05:16.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="u0pZ3Iit24VVrCtjCWE7" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-16T06:59:30.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="wV0xgUCBzga4zPxgRArj" version="20.5.3" type="github" pages="4">
   <diagram id="PV2RBQs3aGNZxjhDw1Lz" name="标准部署">
     <mxGraphModel dx="1105" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,9 +58,9 @@
         <mxCell id="PjXqqMbGOwwHypWw3CEZ-13" value="业务系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="827" y="345" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O7jRvxS7v9rz79tXvBMg-4" value="" style="swimlane;startSize=0;dashed=1;strokeWidth=2;fontSize=22;fillColor=none;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="70" y="505" width="50" height="40" as="geometry">
-            <mxRectangle x="70" y="505" width="440" height="170" as="alternateBounds" />
+        <mxCell id="O7jRvxS7v9rz79tXvBMg-4" value="" style="swimlane;startSize=0;dashed=1;strokeWidth=2;fontSize=22;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="70" y="505" width="440" height="170" as="geometry">
+            <mxRectangle x="70" y="505" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O7jRvxS7v9rz79tXvBMg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=18;" parent="O7jRvxS7v9rz79tXvBMg-4" source="O7jRvxS7v9rz79tXvBMg-10" edge="1">
