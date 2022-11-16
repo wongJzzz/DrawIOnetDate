@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T01:56:13.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="ISWigldSTK9uTPAnSvId" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-16T01:56:41.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="LgRqEJorAG5ZSEyljxvL" version="20.5.3" type="github" pages="4">
   <diagram id="PV2RBQs3aGNZxjhDw1Lz" name="标准部署">
     <mxGraphModel dx="1105" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="orFZrzLtjVPhmD2BqEJD" name="ganghua">
-    <mxGraphModel dx="2300" dy="2225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3325" dy="2609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,10 +133,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qECqtDhqG5QcG9eSzp7B-15" value="GIS 服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="640" y="-200" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qECqtDhqG5QcG9eSzp7B-17" value="切片地图服务" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="860" y="-130" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Z_rMe-z7WKQoMF_P5jX-9" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-760" y="510" width="2104" height="610" as="geometry" />
@@ -416,7 +416,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Z_rMe-z7WKQoMF_P5jX-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="510" y="-540" width="1240" height="330" as="geometry" />
+          <mxGeometry x="110" y="-510" width="1240" height="330" as="geometry" />
         </mxCell>
         <mxCell id="qECqtDhqG5QcG9eSzp7B-35" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=default;" parent="1Z_rMe-z7WKQoMF_P5jX-43" vertex="1">
           <mxGeometry x="200" y="50" width="160" height="190" as="geometry" />
