@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T07:11:51.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="5jP4h-grL5H4dryzOxLx" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-16T07:12:03.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="99xvbZQ9TMX33C_ThEuQ" version="20.5.3" type="github" pages="4">
   <diagram id="PV2RBQs3aGNZxjhDw1Lz" name="标准部署">
     <mxGraphModel dx="1105" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dknc4zovGNGLpdZmX9Mf-1" value="B \ S" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="990" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dknc4zovGNGLpdZmX9Mf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="Dknc4zovGNGLpdZmX9Mf-3" target="Dknc4zovGNGLpdZmX9Mf-38">
           <mxGeometry relative="1" as="geometry" />
@@ -118,7 +118,7 @@
           <mxGeometry x="320" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dknc4zovGNGLpdZmX9Mf-36" value="JavaScript API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="227.5" width="240" height="45" as="geometry" />
+          <mxGeometry x="1140" y="237.5" width="240" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Dknc4zovGNGLpdZmX9Mf-38" value="Runtime SDK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1140" y="457.5" width="240" height="45" as="geometry" />
